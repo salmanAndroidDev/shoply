@@ -1,0 +1,7 @@
+Django~=3.2.4
+Pillow==8.2.0
+celery==4.4.2
+flower==0.9.7
+braintree==3.59.0
+WeasyPrint==51
+redis==3.4.1
